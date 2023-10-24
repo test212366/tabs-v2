@@ -1,0 +1,9 @@
+.tab-item {
+	display: none;
+}
+.active {
+	display: block;
+}
+.acbtn {
+	background-color: rgba(0, 0, 0, 0.466);
+}
